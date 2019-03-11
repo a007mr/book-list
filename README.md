@@ -1,5 +1,5 @@
 # book-list
-Book-list app - hold the books in the list by title, author, and ISBN
+Book-list app - hold the books in the list by title, author, and ISBN.
 
 Book List App using ES5 and ES6. For UI using clean Skeleton framework.
 
